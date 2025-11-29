@@ -27,7 +27,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que uso no dia
 
 
 
-![pericles97's Stats](https://github-readme-stats.vercel.app/api?username=pericles97&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) <br><br>
+![periclesradaelli's Stats](https://github-readme-stats.vercel.app/api?username=pericles97&theme=vue-dark&show_icons=true&hide_border=false&count_private=true) <br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
